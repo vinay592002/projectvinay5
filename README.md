@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://mango-pebble-0f80fcf00.2.azurestaticapps.net
-**project demo video link** - https://youtu.be/XgXH1y3lveo
+**project demo video link** - https://youtu.be/RNqe99hODQs
 
 ## Azure technologies used for Project
 
