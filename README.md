@@ -52,8 +52,21 @@ This is a web based application developed for health related based website in in
 ### health bot
 
 
-![Screenshot (13)](https://user-images.githubusercontent.com/118420582/203724222-252cd48f-9a17-46ea-8d3c-9cc10d5d6a55.png)
 
+![Screenshot (2)](https://user-images.githubusercontent.com/118420582/208026631-b13fc7a2-6e84-4b4a-b50c-6eb5e5cd1c2f.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/118420582/208026641-87a88d72-b837-437c-ba8a-12da6d092e84.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/118420582/208026656-c03e6cd3-b72a-4edc-8658-386ff907114d.png)
+
+
+![Screenshot (5)](https://user-images.githubusercontent.com/118420582/208026738-1226cb3a-59ec-44df-8b7e-ffce32d4a0ea.png)
+
+
+![Screenshot (6)](https://user-images.githubusercontent.com/118420582/208026751-7029d1b6-9ce4-4834-bd21-31c3b4a0b70d.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/118420582/208026769-721e4d8d-2608-418d-a855-644f5146d5b1.png)
+
+
+![Screenshot (8)](https://user-images.githubusercontent.com/118420582/208026775-b285fe4e-2248-4914-96af-64789107e11a.png)
 
 ## Tech Stack 💻
 
